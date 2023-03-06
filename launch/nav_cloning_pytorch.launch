@@ -1,7 +1,8 @@
 <?xml version="1.0"?>
 <launch>
 
-  <arg name="script" default="nav_cloning_node_pytorch_test.py"/>
+  <!-- <arg name="script" default="nav_cloning_node_pytorch_test.py"/> -->
+  <arg name="script" default="nav_cloning_node_pytorch_test2.py"/>
   <!-- <arg name="script" default="nav_cloning_node_pytorch_default.py"/> -->
   <!-- <arg name="script" default="nav_cloning_node_pytorch_one_camera.py"/> -->
 
